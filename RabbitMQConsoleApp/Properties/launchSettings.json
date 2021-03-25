@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RabbitMQConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "s"
+    }
+  }
+}
